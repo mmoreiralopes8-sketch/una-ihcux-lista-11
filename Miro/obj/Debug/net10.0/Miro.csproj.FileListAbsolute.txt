@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Miro\bin\Debug\net10.0\Miro.exe
+C:\Users\USER\Documents\Miro\bin\Debug\net10.0\Miro.deps.json
+C:\Users\USER\Documents\Miro\bin\Debug\net10.0\Miro.runtimeconfig.json
+C:\Users\USER\Documents\Miro\bin\Debug\net10.0\Miro.dll
+C:\Users\USER\Documents\Miro\bin\Debug\net10.0\Miro.pdb
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\Miro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\Miro.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\Miro.AssemblyInfo.cs
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\Miro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\Miro.dll
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\refint\Miro.dll
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\Miro.pdb
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\Miro.genruntimeconfig.cache
+C:\Users\USER\Documents\Miro\obj\Debug\net10.0\ref\Miro.dll
